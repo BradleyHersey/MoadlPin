@@ -1,2 +1,2 @@
 # ModalPin
- https://bradleyhersey.github.io/ModalPin/
+ https://bradleyhersey.github.io/ModalPin
